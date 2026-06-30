@@ -131,7 +131,7 @@ const Hero = () => {
             transition={{ delay: 0.4 }}
             className="absolute top-10 dark:text-white -left-6 bg-white dark:bg-gray-900 p-3 rounded-xl shadow-lg border border-gray-200 dark:border-gray-800"
           >
-            📍 Citadelle Laferrière
+            🏷️ Citadelle Laferrière
           </motion.div>
 
           {/* FLOATING CARD 2 */}
